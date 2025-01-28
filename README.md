@@ -10,6 +10,7 @@ Input: A configuration file containing a list of .csv files corresponding to dif
 Output: For each dataset listed in the config file, a folder containing three files will be produced as output.
         The file names of each folder, and the names of the files inside each folder are appended with the current
         date and time. The file contents are as follows:
+        
             1) A log file containing the results of each supervised and unsupervised classification method in
                text format. Example: Log_20241228_112538.txt
             2) A .png file containing the K-Means clustering plot. Example: kmeans_clustering_20241228_112538.png
