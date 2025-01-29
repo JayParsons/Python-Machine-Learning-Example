@@ -24,7 +24,7 @@ date and time. The file contents are as follows:
 
 Note on import dependencies:
 
-This code has been developed and tested using the following dependecny versions:  
+This code has been developed and tested using the following dependency versions:  
 
           * python -> 3.10.6  
           * pandas -> 2.2.3  
