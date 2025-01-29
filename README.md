@@ -21,3 +21,14 @@ date and time. The file contents are as follows:
                text format. Example: Log_20241228_112538.txt
             2) A .png file containing the K-Means clustering plot. Example: kmeans_clustering_20241228_112538.png
             3) A .png file containing the PCA plot. Example: pca_20241228_112538.png
+
+Note on import dependencies:
+
+This code has been developed and tested using the following dependecny versions:  
+
+          * python -> 3.10.6  
+          * pandas -> 2.2.3  
+          * scikit-learn -> 1.6.0  
+          * matplotlib -> 3.10.0    
+
+While not tested with earlier versions of these packages, you are welcome to try and I would welcome any feedback on your experiences using earlier versions. This information can be added to this README either by myself, or by a pull request. Thanks!
