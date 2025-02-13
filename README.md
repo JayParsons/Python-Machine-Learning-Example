@@ -31,4 +31,10 @@ This code has been developed and tested using the following dependency versions:
           * scikit-learn -> 1.6.0  
           * matplotlib -> 3.10.0    
 
-While not tested with earlier versions of these packages, you are welcome to try and I would welcome any feedback on your experiences using earlier versions. This information can be added to this README either by myself, or by a pull request. Thanks!
+While not tested with earlier versions of these packages, you are welcome to try and I would welcome any feedback on your experiences using earlier versions. This information can be added to this README either by myself, or by a pull request. Thanks!  
+
+Possible future improvements (please send me your suggestions). This script exists for demonstration purposes, but could become a production ready utility :  
+
+          * Make the file location of the output configurable (could be done on the command line either as a passed parameter at runtime or through user input through a prompt or pop up)  
+          * Right now this script runs all of the supervised and unsupervised classifiers. I'd like the next iteration of this script to allow the user to select which classifiers to run.     
+
